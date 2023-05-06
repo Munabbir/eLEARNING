@@ -1,0 +1,6 @@
+
+.skilled :hover{
+    color: black;
+    border-radius: 15px;
+    transition: 1s;
+}
